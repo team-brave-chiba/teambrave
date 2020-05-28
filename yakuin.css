@@ -130,7 +130,7 @@ div#footer {
 	clear:both;			/*フロート配置をクリアする*/
 	height:80px;			/*高さの指定*/
 	padding:10px 0px 0px 0px;	/*パディング*/
-	font-size:x-small;		/*フォントサイズを小さくする*/
+	font-size:15px;		/*フォントサイズを小さくする*/
 	text-align:center;		/*センタリング*/
 }
 .teamlogo001
