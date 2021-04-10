@@ -131,8 +131,8 @@ h4 {
 ============================================*/
 div#footer {
 	clear:both;			/*フロート配置をクリアする*/
-	height:50px;			/*高さの指定*/
-	padding:10px 0px 0px 0px;	/*パディング*/
+	height:70px;			/*高さの指定*/
+	padding:0px 0px 0px 0px;	/*パディング*/
 	font-size:x-small;		/*フォントサイズを小さくする*/
 	text-align:center;		/*センタリング*/
 }
